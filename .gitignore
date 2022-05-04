@@ -1,6 +1,6 @@
 .idea
 .ipynb_checkpoints
 venv
-features_importance
 data.csv
+features_importance
 Sternberg_Spectrum_epochs
