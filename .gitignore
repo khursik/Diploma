@@ -4,3 +4,5 @@ venv
 data.csv
 features_importance
 Sternberg_Spectrum_epochs
+EDA
+each_elec_sep
